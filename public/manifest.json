@@ -1,0 +1,24 @@
+{
+  "short_name": "EOTC Market",
+  "name": "EOTC Market - ኦርቶዶክሳዊ ገበያ",
+  "description": "መጽሐፍት፣ ንዋየ ቅድሳት፣ አልባሳት እና ሥዕላት መገበያያ",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3081/3081559.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3081/3081559.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#161A20",
+  "theme_color": "#FB923C",
+  "display": "standalone",
+  "orientation": "portrait"
+}
