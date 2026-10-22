@@ -1,24 +1,42 @@
 {
+  "id": "/",
   "short_name": "EOTC Market",
   "name": "EOTC Market - ኦርቶዶክሳዊ ገበያ",
   "description": "መጽሐፍት፣ ንዋየ ቅድሳት፣ አልባሳት እና ሥዕላት መገበያያ",
+  "start_url": "/",
+  "scope": "/",
+  "background_color": "#161A20",
+  "theme_color": "#FB923C",
+  "display": "standalone",
+  "orientation": "portrait",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/3081/3081559.png",
+      "src": "https://placehold.co/192x192/FB923C/161A20.png?text=EOTC",
       "type": "image/png",
       "sizes": "192x192",
-      "purpose": "any maskable"
+      "purpose": "any"
     },
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/3081/3081559.png",
+      "src": "https://placehold.co/512x512/FB923C/161A20.png?text=EOTC+Market",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any maskable"
     }
   ],
-  "start_url": "/",
-  "background_color": "#161A20",
-  "theme_color": "#FB923C",
-  "display": "standalone",
-  "orientation": "portrait"
+  "screenshots": [
+    {
+      "src": "https://placehold.co/1080x1920/161A20/FB923C.png?text=EOTC+Market+App",
+      "sizes": "1080x1920",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "EOTC Market Home Screen"
+    },
+    {
+      "src": "https://placehold.co/1920x1080/161A20/FB923C.png?text=EOTC+Market+Web",
+      "sizes": "1920x1080",
+      "type": "image/png",
+      "form_factor": "wide",
+      "label": "EOTC Market Desktop View"
+    }
+  ]
 }
